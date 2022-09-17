@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p><img align='center' src='https://github.com/dylandSteven/dylandSteven/blob/main/gif.gif' width='500' height='320'</p>
+<p><img align='center' src='https://github.com/dylandSteven/dylandSteven/blob/main/gif.gif' width='700' height='520'</p>
 
 
 
