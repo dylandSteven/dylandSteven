@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p><img align='center' src='https://github.com/dylandSteven/dylandSteven/blob/main/gif.gif' width='500' height='320'</p>
+
+
+
 <!--
 **dylandSteven/dylandSteven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
